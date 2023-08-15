@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Booooooger
-- 👀 I’m interested: Backend & Frontend & DevOps & CloudNative 
+- 👋 Hi, I’m @xyombo
 - 📫 How to reach me : yombo@qq.com
 
 <img align="left" height=170px  width=666px  src="https://github-readme-stats.vercel.app/api?username=xyombo&show_icons=true&count_private=true" />
