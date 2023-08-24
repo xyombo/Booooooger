@@ -1,6 +1,13 @@
-<h2 align="left">Hi 👋! My name is Yombo and I'm a  passionate backend developer from China</h2>
+<h1 align="center">Hi 👋, I'm Yombo.X</h1>
+<h3 align="center">A passionate backend developer from China</h3>
 
-###
+- 🌱 I’m currently learning **Golang**
+
+- 📫 How to reach me **yombo@qq.com**
+
+<h3 align="left">Skill with me:</h3>
+<p align="left">
+</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
