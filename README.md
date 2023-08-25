@@ -1,3 +1,5 @@
+![image](https://github.com/xyombo/xyombo/assets/40785594/a7d589e7-1894-4899-adbe-d6dc2df56bb3)
+
 <h1 align="center">Hi 👋, I'm Yombo.X</h1>
 <h3 align="center">A passionate backend developer from China</h3>
 
